@@ -7,11 +7,12 @@
   background-size: "cover";
   background-repeat: "no-repeat";
   padding: "71px 0px";
+
 }
 
 @media screen and (max-width: 600px){
     .banner{
-        height: 50vh;
+        height: 70vh;
     }
 }
 
